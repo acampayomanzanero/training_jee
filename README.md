@@ -1,2 +1,2 @@
 # training_jee
-Training in JEE
+JEE training project.
